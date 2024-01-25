@@ -19,7 +19,7 @@ let sections = document.querySelectorAll('section');
 
          let header = document.querySelector('header');
     
-        header.classList.toggle('sticky', window.scrollY > 200);
+        header.classList.toggle('sticky', window.scrollY > 150);
          
        
     };
