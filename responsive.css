@@ -121,17 +121,16 @@
     .home-img img {
         width: 33vw;
         margin-top: 4rem;
-        height: 54vh;
+        height: 30vh;
         border-radius: 100%;
     }
     .about{
         flex-direction: column-reverse;
     }
-    .about img {
-        width: 49vw;
-        height: 68vh;
-        margin-top: 4rem;
-        border-radius: 15px;
+    .home-img img {
+        width: 34vw;
+        height: 33vh;
+        border-radius: 67%;
     }
     .service h2{
         margin-bottom: 3rem;
@@ -186,10 +185,10 @@
     }
 }
 
-@media (max-width: 365px){
+@media (max-width: 370px){
     .home-img img {
         width: 34vw;
-        height: 20vh;
+        height: 33vh;
         border-radius: 67%;
     }
 }
