@@ -2,45 +2,40 @@
     "project":[
         {
             "img":"Portfolio images/images/portfolio1.jpg",
-            "head":"Web Design",
-            "para":"lorem impusm lorem",
-            "gitlink":"",
-            "netlink":""
+            "head":"Restaurent Project",
+            "gitlink":"https://github.com/Mohammad-thanzil/ADEEN-restaurant",
+            "netlink":"https://adeen-restaurant.netlify.app/"
         },
         {
             "img":"Portfolio images/images/portfolio2.jpg",
-            "head":"Web Design",
-            "para":"lorem impusm lorem",
-            "gitlink":"",
-            "netlink":""
+            "head":"Hotstar Project",
+            "gitlink":"https://github.com/Mohammad-thanzil/Hotstar--clone",
+            "netlink":"https://thestarclone.netlify.app/"
         },
         {
             "img":"Portfolio images/images/portfolio3.jpg",
-            "head":"Web Design",
-            "para":"lorem impusm lorem",
-            "gitlink":"",
-            "netlink":""
-        },
-        {
-            "img":"Portfolio images/images/portfolio4.jpg",
-            "head":"Web Design",
-            "para":"lorem impusm lorem",
-            "gitlink":"",
-            "netlink":""
-        },
-        {
-            "img":"Portfolio images/images/portfolio5.jpg",
-            "head":"Web Design",
-            "para":"lorem impusm lorem",
-            "gitlink":"",
-            "netlink":""
+            "head":"Bootstrap Project",
+            "gitlink":"https://github.com/Mohammad-thanzil/Muneer-Sweets_clone",
+            "netlink":"https://muneer-sweet.netlify.app/"
         },
         {
             "img":"Portfolio images/images/portfolio6.jpg",
-            "head":"Web Design",
-            "para":"lorem impusm lorem",
-            "gitlink":"",
-            "netlink":""
+            "head":"Lassi Shop",
+            "gitlink":"https://github.com/Mohammad-thanzil/Lassi-Shop",
+            "netlink":"https://lassi-shop.netlify.app/"
+        },
+        {
+            "img":"Portfolio images/images/portfolio4.jpg",
+            "head":"Weather Forecast",
+            "gitlink":"https://github.com/Mohammad-thanzil/Weather-checking",
+            "netlink":"https://aspira-weather-app.netlify.app/"
+        },
+        {
+            "img":"Portfolio images/images/portfolio5.jpg",
+            "head":"Validation Form",
+            "gitlink":"https://github.com/Mohammad-thanzil/Valid-Form",
+            "netlink":"https://validation-formating.netlify.app/"
         }
+       
     ]
 }

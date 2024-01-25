@@ -1,13 +1,3 @@
-// let menuIcon = document.querySelector('#menu-icon');
-// let navbar = document.querySelector('.navbar');
-
-// menuIcon.onclick =() =>{
-//     menuIcon.classList.toggle('bx-x');
-//     navbar.classList.toggle('active');
-// };
-
-
-
 let sections = document.querySelectorAll('section');
      let navlinks = document.querySelectorAll('header nav a');
     
@@ -29,10 +19,9 @@ let sections = document.querySelectorAll('section');
 
          let header = document.querySelector('header');
     
-        header.classList.toggle('sticky', window.scrollY > 100);
+        header.classList.toggle('sticky', window.scrollY > 200);
          
-        menuIcon.classList.remove('bx-x');
-        navbar.classList.remove('active');
+       
     };
 
  ScrollReveal({
@@ -49,7 +38,7 @@ let sections = document.querySelectorAll('section');
 
 
  const typed = new Typed('.multiple-text',{
-     strings: ['Frontend Developer', 'Backend Developer', 'Blogger'],
+     strings: ['Frontend Developer', 'Backend Developer', 'Python Developer'],
      typeSpeed: 100,
      backspeed: 100,
      backDelay: 1000,
