@@ -185,3 +185,11 @@
         height: 22px;
     }
 }
+
+@media (max-width: 365px){
+    .home-img img {
+        width: 34vw;
+        height: 20vh;
+        border-radius: 67%;
+    }
+}
